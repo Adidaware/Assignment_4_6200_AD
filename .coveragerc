@@ -1,0 +1,5 @@
+[run]
+omit =
+    tests/*
+    /usr/local/lib/python3.*/*
+    assignment4/__init__.py
